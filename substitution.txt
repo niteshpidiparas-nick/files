@@ -1,0 +1,3 @@
+#!/bin/sh
+a=10
+echo -e "Value Of a is $a \n"
